@@ -14,6 +14,7 @@
 
 #### 🛠️ Технологии
  * JavaScript 
+ * CSS
  * SCSS
  * HTML
  * Typed.js
